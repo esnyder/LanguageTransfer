@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>LanguageTransferLogo.png</file>
+        <file>Options.png</file>
+        <file>play.png</file>
+        <file>pause.png</file>
+        <file>check.png</file>
+        <file>circle.png</file>
+        <file>BackArrow.png</file>
+        <file>Star Filled-24.png</file>
+        <file>Star-24.png</file>
+        <file>Note Filled-24.png</file>
+        <file>Play-24.png</file>
+        <file>Note-24.png</file>
+        <file>Bookmark Ribbon Filled-24.png</file>
+        <file>Bookmark Ribbon-24.png</file>
+        <file>arrow-left.svg</file>
+        <file>more-vertical.svg</file>
+        <file>bookmark-filled.svg</file>
+        <file>bookmark.svg</file>
+        <file>check-circle.svg</file>
+        <file>sticky-note-o.svg</file>
+        <file>sticky-note.svg</file>
+    </qresource>
+    <qresource prefix="/movies">
+        <file>gears.gif</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Roboto-Regular.ttf</file>
+    </qresource>
+    <qresource prefix="/config">
+        <file>client_id.config</file>
+    </qresource>
+</RCC>
